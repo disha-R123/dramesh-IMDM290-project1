@@ -1,5 +1,5 @@
 # IMDM 290 — 2026 Spring
-<iframe width="560" height="315" src="https://www.youtube.com/embed/igKY-_6VYJQ?si=tLVWejqrihDJ2kiS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Heart](videos/StationaryLerp.mov)
-[Heart Lerp](videos/HeartLerp.mov)
-[Rose Lerp](videos/RoseLerp.mov)
+
+Result image (videos are in the video folder)
+
+<img width="653" height="555" alt="Screenshot 2026-02-14 at 11 03 12 AM" src="https://github.com/user-attachments/assets/c06f7fbb-608b-4a17-9264-c61b332ccd99" />
