@@ -1,4 +1,4 @@
 # IMDM 290 — 2026 Spring
-[Heart](videos/StationaryLerp.mp4)
-[Heart Lerp](videos/HeartLerp.mp4)
-[Rose Lerp](videos/RoseLerp.mp4)
+[Heart](videos/StationaryLerp.mov)
+[Heart Lerp](videos/HeartLerp.mov)
+[Rose Lerp](videos/RoseLerp.mov)
